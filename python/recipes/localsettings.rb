@@ -4,7 +4,5 @@ node[:deploy].each do |application, deploy|
     next
   end
 
-  Chef::Log.debug("Deploying Python app #{application}"
-
 end
 
