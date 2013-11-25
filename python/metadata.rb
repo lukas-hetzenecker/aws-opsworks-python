@@ -11,7 +11,6 @@ end
 recipe "python::setup", "Setup a Python application"
 recipe "python::configure", "Re-configure a Python application"
 
-depends "build-essential"
 depends "deploy"
 
 attribute "python/version",
