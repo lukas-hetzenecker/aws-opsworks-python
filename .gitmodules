@@ -3,7 +3,7 @@
 	url = https://github.com/opscode-cookbooks/build-essential.git
 [submodule "yum"]
 	path = yum
-	url = https://github.com/opscode-cookbooks/yum.git
+	url = https://github.com/lukas-hetzenecker/yum.git
 [submodule "python"]
 	path = python
 	url = https://github.com/poise/python
