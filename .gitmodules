@@ -7,3 +7,6 @@
 [submodule "python"]
 	path = python
 	url = https://github.com/poise/python
+[submodule "application_python"]
+	path = application_python
+	url = https://github.com/poise/application_python.git
